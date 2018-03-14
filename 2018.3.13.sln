@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "累進稅率", "累進稅率\累進稅率.csproj", "{BA090E0B-EF7B-448F-874F-7F2345C9946A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "數值判斷", "數值判斷\數值判斷.csproj", "{09BC062B-366E-4A58-96CB-6011D0079972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "電信費率", "電信費率\電信費率.csproj", "{4B9C0D58-1505-49C7-A8A5-64AB1D1DB3CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "回文測試", "回文測試\回文測試.csproj", "{FCC8C0D7-E5BE-46A3-BEBB-CF9BE5D40285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textfile", "Textfile\Textfile.csproj", "{FDCF14E2-6EA0-4D54-8C4D-039530BD4F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "油耗紀錄", "油耗紀錄\油耗紀錄.csproj", "{62975D6F-8DD9-4483-B78A-CC9246DD9B8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LED", "LED\LED.csproj", "{F47D1967-1440-46CF-86DE-D1E5666FF797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA090E0B-EF7B-448F-874F-7F2345C9946A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA090E0B-EF7B-448F-874F-7F2345C9946A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA090E0B-EF7B-448F-874F-7F2345C9946A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA090E0B-EF7B-448F-874F-7F2345C9946A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BC062B-366E-4A58-96CB-6011D0079972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BC062B-366E-4A58-96CB-6011D0079972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BC062B-366E-4A58-96CB-6011D0079972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BC062B-366E-4A58-96CB-6011D0079972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9C0D58-1505-49C7-A8A5-64AB1D1DB3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9C0D58-1505-49C7-A8A5-64AB1D1DB3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9C0D58-1505-49C7-A8A5-64AB1D1DB3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9C0D58-1505-49C7-A8A5-64AB1D1DB3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC8C0D7-E5BE-46A3-BEBB-CF9BE5D40285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC8C0D7-E5BE-46A3-BEBB-CF9BE5D40285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC8C0D7-E5BE-46A3-BEBB-CF9BE5D40285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC8C0D7-E5BE-46A3-BEBB-CF9BE5D40285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDCF14E2-6EA0-4D54-8C4D-039530BD4F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCF14E2-6EA0-4D54-8C4D-039530BD4F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCF14E2-6EA0-4D54-8C4D-039530BD4F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCF14E2-6EA0-4D54-8C4D-039530BD4F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62975D6F-8DD9-4483-B78A-CC9246DD9B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62975D6F-8DD9-4483-B78A-CC9246DD9B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62975D6F-8DD9-4483-B78A-CC9246DD9B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62975D6F-8DD9-4483-B78A-CC9246DD9B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47D1967-1440-46CF-86DE-D1E5666FF797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47D1967-1440-46CF-86DE-D1E5666FF797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47D1967-1440-46CF-86DE-D1E5666FF797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47D1967-1440-46CF-86DE-D1E5666FF797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD36A92-5594-4268-BAF2-AA1197721DDC}
+	EndGlobalSection
+EndGlobal
